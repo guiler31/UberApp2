@@ -1,0 +1,6 @@
+framework module Pods_EmergencyUBERForRaider {
+  umbrella header "Pods-EmergencyUBERForRaider-umbrella.h"
+
+  export *
+  module * { export * }
+}
